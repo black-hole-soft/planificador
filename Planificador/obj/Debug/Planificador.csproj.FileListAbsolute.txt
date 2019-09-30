@@ -1,6 +1,0 @@
-C:\Users\ggonzalez23\Desktop\planificador\Planificador\bin\Debug\Planificador.exe
-C:\Users\ggonzalez23\Desktop\planificador\Planificador\bin\Debug\Planificador.pdb
-C:\Users\ggonzalez23\Desktop\planificador\Planificador\obj\Debug\Planificador.csprojAssemblyReference.cache
-C:\Users\ggonzalez23\Desktop\planificador\Planificador\obj\Debug\Planificador.csproj.CoreCompileInputs.cache
-C:\Users\ggonzalez23\Desktop\planificador\Planificador\obj\Debug\Planificador.exe
-C:\Users\ggonzalez23\Desktop\planificador\Planificador\obj\Debug\Planificador.pdb
